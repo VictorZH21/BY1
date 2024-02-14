@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\obj\Debug\Белый ящик 1.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\obj\Debug\Белый ящик 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\obj\Debug\Белый_ящик_1.Form1.resources
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\obj\Debug\Белый_ящик_1.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\obj\Debug\Белый ящик 1.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\obj\Debug\Белый ящик 1.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\bin\Debug\Белый ящик 1.exe.config
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\bin\Debug\Белый ящик 1.exe
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\bin\Debug\Белый ящик 1.pdb
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\obj\Debug\Белый ящик 1.exe
+C:\Users\CoFFey\source\repos\Белый ящик 1\Белый ящик 1\obj\Debug\Белый ящик 1.pdb
